@@ -4,3 +4,4 @@ blue
 yellow
 black
 green
+white
